@@ -81,5 +81,5 @@ Make sure you have:
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/adrianhajdin/food_ordering.git
+git clone https://github.com/Allan-Kipkemei/FoodOrderingApp
 cd food_ordering
