@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-  <a href="https://www.youtube.com/watch?v=LKrX390fJMw" target="_blank">
-    <img src="assets/readme/hero.png" alt="Project Banner">
-  </a>
-  <br />
+ 
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
@@ -80,7 +76,7 @@ Make sure you have:
 
 - [Git](https://git-scm.com/)  
 - [Node.js](https://nodejs.org/en)  
-- [npm](https://www.npmjs.com/)  
+- [npm](https://www.npmjs.com/)  `
 
 ### Clone the Repo
 
