@@ -4,14 +4,14 @@ import {CreateUserParams, GetMenuParams, SignInParams} from "@/type";
 export const appwriteConfig = {
     endpoint: process.env.EXPO_PUBLIC_APPWRITE_ENDPOINT!,
     projectId: process.env.EXPO_PUBLIC_APPWRITE_PROJECT_ID!,
-    platform: "com.jsm.foodordering",
-    databaseId: '68790f05003864a62e14',
+    platform: "com.jsm.food",
+    databaseId: '689a31430022ebd2afa0',
     bucketId: '68643e170015edaa95d7',
-    userCollectionId: '68629b0a003d27acb18f',
-    categoriesCollectionId: '68643a390017b239fa0f',
-    menuCollectionId: '68643ad80027ddb96920',
-    customizationsCollectionId: '68643c0300297e5abc95',
-    menuCustomizationsCollectionId: '68643cd8003580ecdd8f'
+    userCollectionId: '689a31890023e8e99837',
+    //categoriesCollectionId: '68643a390017b239fa0f',
+    //menuCollectionId: '68643ad80027ddb96920',
+    //customizationsCollectionId: '68643c0300297e5abc95',
+    //menuCustomizationsCollectionId: '68643cd8003580ecdd8f'
     //68790f05003864a62e14
 }
 
@@ -75,7 +75,7 @@ export const getCurrentUser = async () => {
     }
 }
 
-export const getMenu = async ({ category, query }: GetMenuParams) => {
+/*export const getMenu = async ({ category, query }: GetMenuParams) => {
     try {
         const queries: string[] = [];
 
@@ -106,3 +106,4 @@ export const getCategories = async () => {
         throw new Error(e as string);
     }
 }
+*/
