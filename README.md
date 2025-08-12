@@ -1,18 +1,28 @@
 <div align="center">
- 
 
-Screenshots of the application
+## 📸 Screenshots
 
-![alt text](<WhatsApp Image 2025-08-12 at 22.34.14_bf57bfe1.jpg>)
+<img src="WhatsApp Image 2025-08-12 at 22.34.14_bf57bfe1.jpg" 
+     alt="Screenshot 1" 
+     width="300" 
+     style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
 
-![alt text](<WhatsApp Image 2025-08-12 at 22.34.14_9faa2286.jpg>)
-  <div>
+<img src="WhatsApp Image 2025-08-12 at 22.34.14_9faa2286.jpg" 
+     alt="Screenshot 2" 
+     width="300" 
+     style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
+
+<br><br>
+
+<div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=F02E65" alt="Appwrite" />
     <img src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-  </div>
+</div>
+
+</div>
 
   <h3 align="center">Food Delivery Mobile App</h3>
 
