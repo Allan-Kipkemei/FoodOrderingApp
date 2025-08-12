@@ -1,6 +1,11 @@
 <div align="center">
  
 
+Screenshots of the application
+
+![alt text](<WhatsApp Image 2025-08-12 at 22.34.14_bf57bfe1.jpg>)
+
+![alt text](<WhatsApp Image 2025-08-12 at 22.34.14_9faa2286.jpg>)
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
