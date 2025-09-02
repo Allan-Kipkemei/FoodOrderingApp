@@ -3,98 +3,97 @@
 ## 📸 Screenshots
 
 <img src="WhatsApp Image 2025-08-12 at 22.34.14_bf57bfe1.jpg" 
-     alt="Screenshot 1" 
+     alt="Home Page Screenshot" 
      width="300" 
      style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
 
 <img src="WhatsApp Image 2025-08-12 at 22.34.14_9faa2286.jpg" 
-     alt="Screenshot 2" 
+     alt="Cart Page Screenshot" 
      width="300" 
      style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
 
 <br><br>
 
 <div>
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=F02E65" alt="Appwrite" />
-    <img src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" alt="Appwrite" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 </div>
 
 </div>
 
-  <h3 align="center">Food Delivery Mobile App</h3>
+<h3 align="center">🍔 Food Delivery Mobile App</h3>
 
-  <div align="center">
+<div align="center">
     Build this project step by step with our detailed tutorial on 
     <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. 
     Join the JSM family!
-  </div>
 </div>
 
-## 📋 [Table of Contents](#table)
+---
 
-1. 🤖 [Introduction](#introduction)  
-2. ⚙️ [Tech Stack](#tech-stack)  
-3. 🔋 [Features](#features)  
-4. 🤸 [Quick Start](#quick-start)  
-5. 🔗 [Assets](#links)  
-6. 🚀 [More](#more)
+## 📋 Table of Contents
+
+1. 🤖 [Introduction](#-introduction)  
+2. ⚙️ [Tech Stack](#-tech-stack)  
+3. 🔋 [Features](#-features)  
+4. 🤸 [Quick Start](#-quick-start)  
+5. 🔗 [Assets](#-assets)  
+6. 🚀 [More](#-more)
 
 ---
 
 ## 🤖 Introduction
 
-Built with React Native, TypeScript, and Tailwind CSS, this full-stack Food Delivery app features Google Authentication, dynamic search and filters, cart functionality, and smooth navigation. Powered by Appwrite for backend, database, and file storage, it delivers a responsive user experience.
+This is a **full-stack Food Delivery mobile app** built with **React Native, TypeScript, and Tailwind CSS**.  
+It includes Google Authentication, dynamic search & filters, cart functionality, and smooth navigation.  
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+The app is powered by **Appwrite** for backend, database, and file storage, ensuring a secure and responsive user experience.  
+
+💬 Need help? Join our active **[Discord community](https://discord.gg/your-link)** with over **50k+ members** where people help each other out.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **[Appwrite](https://jsm.dev/rn-food-appwrite)** – Secure backend with authentication, database, storage, real-time APIs & functions.
-- **[Expo](https://expo.dev/)** – Universal app development for Android/iOS/Web with fast refresh and native modules.
-- **[NativeWind](https://www.nativewind.dev/)** – Tailwind utility classes in React Native.
-- **[React Native](https://reactnative.dev/)** – Framework for building mobile UIs with React.
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for rapid UI development.
-- **[TypeScript](https://www.typescriptlang.org/)** – Typed JavaScript for improved tooling and code quality.
-- **[Zustand](https://github.com/pmndrs/zustand)** – Simple, performant global state manager.
-- **[Sentry](https://jsm.dev/rn-food-sentry)** – Real-time error tracking and performance monitoring.
+- **[Appwrite](https://jsm.dev/rn-food-appwrite)** – Authentication, database, storage, real-time APIs & functions  
+- **[Expo](https://expo.dev/)** – Universal development for Android, iOS & Web  
+- **[NativeWind](https://www.nativewind.dev/)** – Tailwind CSS utility classes in React Native  
+- **[React Native](https://reactnative.dev/)** – Mobile UI framework  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first styling  
+- **[TypeScript](https://www.typescriptlang.org/)** – Static typing for better tooling  
+- **[Zustand](https://github.com/pmndrs/zustand)** – Lightweight global state management  
+- **[Sentry](https://jsm.dev/rn-food-sentry)** – Error tracking & performance monitoring  
 
 ---
 
 ## 🔋 Features
 
-### Features of the Mobile Food App
-
-- 👉 **Google Authentication** – Secure user sign-in with Google  
-- 👉 **Home Page** – Showcases offers and links to search results  
-- 👉 **Search Page** – Explore foods by category and keyword  
-- 👉 **Product Details Page** – Shows food images, info & cart button  
-- 👉 **Cart Page** – Review items and total price  
+- 👉 **Google Authentication** – Secure login  
+- 👉 **Home Page** – Highlights offers & categories  
+- 👉 **Search Page** – Search foods by keyword or category  
+- 👉 **Product Details** – Food info, images & “Add to Cart”  
+- 👉 **Cart Page** – Review items & total price  
 - 👉 **Profile Page** – Manage user settings  
-- 👉 **Appwrite Integration** – Backend DB and file storage
+- 👉 **Appwrite Integration** – Backend DB + storage  
 
-…and many more, including reusable architecture!
+…and much more, including reusable architecture!  
 
 ---
 
 ## 🤸 Quick Start
 
-Follow these steps to set up the project locally:
+Follow these steps to run the project locally:  
 
-### Prerequisites
-
-Make sure you have:
-
+### 1. Prerequisites  
+Make sure you have installed:  
 - [Git](https://git-scm.com/)  
-- [Node.js](https://nodejs.org/en)  
-- [npm](https://www.npmjs.com/)  `
+- [Node.js](https://nodejs.org/)  
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)  
 
-### Clone the Repo
-
+### 2. Clone the Repo  
 ```bash
 git clone https://github.com/Allan-Kipkemei/FoodOrderingApp
-cd food_ordering
+cd FoodOrderingApp
