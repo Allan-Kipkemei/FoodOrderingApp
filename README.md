@@ -85,7 +85,7 @@ The app is powered by **Appwrite** for backend, database, and file storage, ensu
 
 ## 🤸 Quick Start
 
-Follow these steps to run the project locally:  
+Follow these steps to run the project in the local environment  
 
 ### 1. Prerequisites  
 Make sure you have installed:  
