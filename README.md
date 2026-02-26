@@ -83,6 +83,8 @@ The app is powered by **Appwrite** for backend, database, and file storage, ensu
 
 ---
 
+## appright issues resolve
+
 ## 🤸 Quick Start
 
 Follow these steps to run the project in the local environment  
